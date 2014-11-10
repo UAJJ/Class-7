@@ -1,3 +1,5 @@
+Click "Download zip" to the right of this dialogue to download the project.
+
 Goal: Have a full-screen background video playing on index.hmtl.
 
 This project has all depencies included. 
